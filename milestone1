@@ -1,0 +1,16 @@
+# milestone 1
+## idea 1
+### data visualization for taylor swift album sales
+i have a dataset from another class with 1041 entries for the album sales based on cities
+the data is in google sheets
+with this project i need to extract the data with formats from google sheets
+i would need to sort the list and organize the dictionary
+
+## idea 2
+### prediction model for the color of the year
+i saw a dataset of skintone colors on kaggle for fashion use
+not sure if this is possible because pantone decides color of the year based on many factors
+the training data would be the rgb for past colors of the year
+maybe a pattern in the rgb valeus would pop out
+and the model could be used to predict the next one from previous data
+this model wouldnt be accurate but it seems fun
