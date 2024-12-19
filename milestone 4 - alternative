@@ -1,0 +1,19 @@
+mileston 4 for the failed regression model
+
+i chose linear regression because we didnt really learn other prediction models 
+
+it was all working fine until model.predict
+
+ive never seen an error with shape mismatch and its still confusing how the mismatch even happened
+
+i made sure the input and output features to fit into the model have the shapes i want
+
+that is all i can do for now
+
+im gussing the reason is because the data itself doesnt show regression
+
+so even though the code ran successfully the data didnt really 'fit' the model
+
+i mentioned this in a section in milestone 5 but one takeaway would be
+
+not to be so confident with things that are unexpected of a model's capability
